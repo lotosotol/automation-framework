@@ -2,4 +2,4 @@ Hybrid Selenium Java Automation Framework capable of supporting UI, web services
 
 Demonstrated during 2017 Automation Guild Conference.
 
-From TAU (Java Programming Course): https://testautomationu.applitools.com/java-programming-course/
+From TAU (Java Programming Course BY @AngieJones): https://testautomationu.applitools.com/java-programming-course/
